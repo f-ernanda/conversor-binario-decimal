@@ -1,0 +1,89 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 62.5%;
+	min-height: 100vh;
+}
+
+body {
+	align-items: center;
+	background: #9a2139;
+	background: linear-gradient(#fff 33%, #9a2139 33%);
+	display: flex;
+	font-family: sans-serif;
+	font-size: 1.5rem;
+	height: 100vh;
+	justify-content: center;
+	line-height: 1.5;
+	scroll-behavior: smooth;
+}
+
+@media (min-width: 600px) {
+	body {
+		background: linear-gradient(90deg, #fff 33%, #9a2139 33%);
+		font-size: 1.6rem;
+	}
+}
+
+input {
+	font-family: monospace;
+}
+
+.main-card {
+	background-color: #fff;
+	box-shadow: .3rem .3rem 1rem rgba(0, 0, 0, .3);
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	height: 60vh;
+	padding: 3rem;
+	width: 80vw;
+}
+
+@media (min-width: 600px) {
+	.main-card {
+		height: 60vh;
+		width: 40vw;
+	}
+}
+
+.main-card > .title {
+	color: #9a2139;
+	margin-bottom: 4rem;
+	text-align: center;
+}
+
+.main-card > .label {
+	color: #353535;
+	margin-bottom: 1rem;
+}
+
+.main-card > .input {
+	border: .1rem solid #353535;
+	border-radius: .5rem;
+	display: block;
+	margin-bottom: .5rem;
+	padding: 1rem;
+	width: 100%;
+}
+
+.main-card > .alert {
+	color: #9a2139;
+	font-size: 1.2rem;
+	margin-bottom: 3rem;
+}
+
+.main-card > .output {
+	margin-bottom: 3rem;
+}
+
+.hidden {
+	visibility: hidden;
+}
+
