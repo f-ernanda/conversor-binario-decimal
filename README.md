@@ -4,8 +4,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/languages/count/f-ernanda/conversor-binario-decimal?color=red">
-  <img src="https://img.shields.io/github/languages/top/f-ernanda/conversor-binario-decimal?color=yellow">
-  <img src="https://img.shields.io/github/repo-size/f-ernanda/conversor-binario-decimal?color=green">
   <img src="https://img.shields.io/github/license/f-ernanda/conversor-binario-decimal?color=blue">
 </p>
 <br>
