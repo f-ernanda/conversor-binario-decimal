@@ -3,12 +3,6 @@
 <br>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/f-ernanda/conversor-binario-decimal?color=red">
-  <img src="https://img.shields.io/github/license/f-ernanda/conversor-binario-decimal?color=blue">
-</p>
-<br>
-
-<p align="center">
  <a href="#-sobre-o-projeto">Sobre o projeto</a> •
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-como-executar">Como executar</a> •
