@@ -27,21 +27,13 @@ Aprendi a utilizar melhor o `map` e o `reduce`, deixando meu código mais funcio
 
 ## ⚙ Funcionalidades
 
-- [x] o usuário é avisado quando um carácter diferente de 0 ou 1 é inserido no input
-- [x] o último carácter não aceito é imediatamente deletado do input
-- [x] o valor decimal é mostrado no output conforme o usuário digita
+- [x] o usuário é avisado quando um carácter diferente de 0 ou 1 é inserido no input;
+- [x] o último carácter não aceito é imediatamente deletado do input;
+- [x] o valor decimal é mostrado no output conforme o usuário digita.
 
 ## 🚀 Como executar
 
-A aplicação está publicada [neste link](https://f-ernanda.github.io/conversor-binario-decimal/)
-
-## 💪 Como contribuir
-
-Colocar o passo a passo para a contribuição, conforme exemplo abaixo:
-1. Faça um **fork** deste projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+A aplicação está publicada [neste link](https://f-ernanda.github.io/conversor-binario-decimal/).
 
 ## 🦸 Autora
 
@@ -52,17 +44,12 @@ Colocar o passo a passo para a contribuição, conforme exemplo abaixo:
  [GitHub][github] | [LinkedIn][linkedin]
 
 <!-- Links -->
-[link-do-programa-1]: https://google.com/
-[link-do-programa-2]: https://google.com/
-[tec1]: https://google.com/
-[tec2]: https://google.com/
 [github]: https://github.com/f-ernanda
 [linkedin]:  https://f-ernanda.github.io/conversor-binario-decimal/
 
-
 ## 📝 Licença
 
-Este projeto esta sob a licença [MIT](.docs/LICENSE).
+Este projeto esta sob a licença [MIT](LICENSE).
 
 ---
 
