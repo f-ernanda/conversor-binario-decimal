@@ -10,9 +10,9 @@ Este projeto foi criado a partir de um dos desafios do
 [repositório do Florin Pop](https://github.com/florinpop17/app-ideas).
 
 Na prática, trata-se de uma pequena aplicação web que:
-- converte números binários em valores decimais
-- valida o input do usuário em tempo real
-- atualiza o resultado conforme o usuário digita
+- Converte números binários em valores decimais
+- Valida o input do usuário em tempo real
+- Atualiza o resultado conforme o usuário digita
 
 Este repositório existe principalmente como um experimento de estudo.
 
@@ -22,9 +22,8 @@ Durante o desenvolvimento deste projeto, meu principal foco foi melhorar a forma
 
 - `map`
 - `reduce`
-- pensar de forma mais funcional ao transformar dados
 
-Foi um ótimo exercício para pegar um problema simples e transformá-lo em um código mais limpo e expressivo.
+Foi um ótimo exercício para pegar um problema simples e transformá-lo em um código mais limpo e expressivo, e pensar de forma mais funcional ao transformar dados.
 
 ## 🌟 Estado atual
 
