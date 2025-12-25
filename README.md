@@ -19,7 +19,6 @@ Este repositório existe principalmente como um experimento de estudo.
 ## 🎯 O que aprendi
 
 Durante o desenvolvimento deste projeto, meu principal foco foi melhorar a forma como utilizo métodos de arrays em JavaScript, especialmente:
-
 - `map`
 - `reduce`
 
