@@ -27,7 +27,7 @@ Foi um ótimo exercício para pegar um problema simples e transformá-lo em um c
 
 ## 🌟 Estado atual
 
-- Status do projeto: **finalizado** 🎉
+- Status do projeto: **concluído** 🎉
 - Próximos passos: nenhum planejado.
 
 ## 🌐 Versão online
