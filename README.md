@@ -2,7 +2,7 @@
 
 Um conversor simples de números binários para decimal, desenvolvido como exercício de aprendizado.
 
-<img src=".docs/tela.jpg" alt="" height="150px">
+<img src="./docs/ui.jpg" alt="" height="150px">
 
 ## 💻 Sobre o projeto
 
@@ -33,7 +33,7 @@ Foi um ótimo exercício para pegar um problema simples e transformá-lo em um c
 
 ## 🌐 Versão online
 
-A aplicação está disponível em:  
+A aplicação está disponível em:
 👉 https://f-ernanda.github.io/conversor-binario-decimal/
 
 ## 📃 Licença
