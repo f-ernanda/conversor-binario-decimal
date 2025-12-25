@@ -10,6 +10,7 @@ Este projeto foi criado a partir de um dos desafios do
 [repositório do Florin Pop](https://github.com/florinpop17/app-ideas).
 
 Na prática, trata-se de uma pequena aplicação web que:
+
 - Converte números binários em valores decimais
 - Valida o input do usuário em tempo real
 - Atualiza o resultado conforme o usuário digita
@@ -19,6 +20,7 @@ Este repositório existe principalmente como um experimento de estudo.
 ## 🎯 O que aprendi
 
 Durante o desenvolvimento deste projeto, meu principal foco foi melhorar a forma como utilizo métodos de arrays em JavaScript, especialmente:
+
 - `map`
 - `reduce`
 
