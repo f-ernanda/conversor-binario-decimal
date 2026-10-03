@@ -1,40 +1,28 @@
-# Conversor de Binário para Decimal
+<h1 align="center">Conversor de Números</h1>
+<p align="center">Um conversor simples de números binários para decimais.</p>
+<br>
 
-Um conversor simples de números binários para decimal, desenvolvido como exercício de aprendizado.
+<p align="center">
+  <img src="./docs/ui.jpg" alt="" height="150px">
+</p>
 
-<img src="./docs/ui.jpg" alt="" height="150px">
+<p align="center">
+  <!-- license -->
+  <img alt="License" src="https://img.shields.io/github/license/f-ernanda/conversor-binario-decimal?color=cb4c83">
+  <!-- languages -->
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/f-ernanda/conversor-binario-decimal?color=CB504C">
+  <!-- top language-->
+  <img alt="Top language" src="https://img.shields.io/github/languages/top/f-ernanda/conversor-binario-decimal?color=cb744c">
+</p>
 
 ## 💻 Sobre o projeto
 
 Este projeto foi criado a partir de um dos desafios do
 [repositório do Florin Pop](https://github.com/florinpop17/app-ideas).
 
-Na prática, trata-se de uma pequena aplicação web que:
+Trata-se de uma pequena aplicação web que converte números binários em seus respectivos valores decimais. A aplicação também valida o input do usuário em tempo real e atualiza o resultado à medida que o usuário digita.
 
-- Converte números binários em valores decimais
-- Valida o input do usuário em tempo real
-- Atualiza o resultado conforme o usuário digita
-
-Este repositório existe principalmente como um experimento de estudo.
-
-## 🎯 O que aprendi
-
-Durante o desenvolvimento deste projeto, meu principal foco foi melhorar a forma como utilizo métodos de arrays em JavaScript, especialmente:
-
-- `map`
-- `reduce`
-
-Foi um ótimo exercício para pegar um problema simples e transformá-lo em um código mais limpo e expressivo, e pensar de forma mais funcional ao transformar dados.
-
-## 🌟 Estado atual
-
-- Status do projeto: **concluído** 🎉
-- Próximos passos: nenhum planejado.
-
-## 🌐 Versão online
-
-A aplicação está disponível em:
-👉 https://f-ernanda.github.io/conversor-binario-decimal/
+O projeto foi desenvolvido como um exercício prático de JavaScript, com foco no uso de métodos de arrays para transformar e processar os dados de forma mais funcional.
 
 ## 📃 Licença
 
@@ -42,4 +30,4 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](.
 
 ---
 
-🌱
+🌱 Criado por [Fernanda](https://github.com/f-ernanda)
