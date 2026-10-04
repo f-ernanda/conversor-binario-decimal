@@ -1,6 +1,5 @@
 <h1 align="center">Conversor de Números</h1>
 <p align="center">Um conversor simples de números binários para decimais.</p>
-<br>
 
 <p align="center">
   <img src="./docs/ui.jpg" alt="" height="150px">
@@ -17,8 +16,7 @@
 
 ## 💻 Sobre o projeto
 
-Este projeto foi criado a partir de um dos desafios do
-[repositório do Florin Pop](https://github.com/florinpop17/app-ideas).
+Este projeto foi criado a partir de um dos desafios do [repositório do Florin Pop](https://github.com/florinpop17/app-ideas).
 
 Trata-se de uma pequena aplicação web que converte números binários em seus respectivos valores decimais. A aplicação também valida o input do usuário em tempo real e atualiza o resultado à medida que o usuário digita.
 
